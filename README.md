@@ -6,9 +6,15 @@ Este front-end é um formulário único — qualquer evento eSocial (S-1000, S-2
 
 ## Requisitos
 
-Rode o back-end de exemplo localmente:
+Rode **um** destes back-ends de exemplo localmente (portas diferentes — se não usar o Java, ajuste `BACKEND_URL` em `src/App.jsx` pra apontar pra porta certa):
 
-- **Java**: [`exemplo-usecase-esocial-java`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-java)
+- **Java** (porta 8080): [`exemplo-usecase-esocial-java`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-java)
+- **C#** (porta 5097): [`exemplo-usecase-esocial-csharp`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-csharp)
+- **JavaScript** (porta 8102): [`exemplo-usecase-esocial-javascript`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-javascript)
+- **TypeScript** (porta 8103): [`exemplo-usecase-esocial-typescript`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-typescript)
+- **Node.js** (porta 3097): [`exemplo-usecase-esocial-nodejs`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-nodejs)
+- **PHP** (porta 8104): [`exemplo-usecase-esocial-php`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-php)
+- **Python** (porta 8105): [`exemplo-usecase-esocial-python`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-python)
 
 ## Como rodar
 
@@ -29,9 +35,15 @@ This front-end is a single form — any eSocial event (S-1000, S-2200, etc.) is 
 
 ## Requirements
 
-Run the example backend locally:
+Run **one** of these example backends locally (different ports — if not using Java, adjust `BACKEND_URL` in `src/App.jsx` to point to the right port):
 
-- **Java**: [`exemplo-usecase-esocial-java`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-java)
+- **Java** (port 8080): [`exemplo-usecase-esocial-java`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-java)
+- **C#** (port 5097): [`exemplo-usecase-esocial-csharp`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-csharp)
+- **JavaScript** (port 8102): [`exemplo-usecase-esocial-javascript`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-javascript)
+- **TypeScript** (port 8103): [`exemplo-usecase-esocial-typescript`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-typescript)
+- **Node.js** (port 3097): [`exemplo-usecase-esocial-nodejs`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-nodejs)
+- **PHP** (port 8104): [`exemplo-usecase-esocial-php`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-php)
+- **Python** (port 8105): [`exemplo-usecase-esocial-python`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-python)
 
 ## Running
 
@@ -52,9 +64,15 @@ Este front-end es un formulario único — cualquier evento eSocial se firma con
 
 ## Requisitos
 
-Ejecute el backend de ejemplo localmente:
+Ejecute **uno** de estos backends de ejemplo localmente (puertos diferentes — si no usa Java, ajuste `BACKEND_URL` en `src/App.jsx` para apuntar al puerto correcto):
 
-- **Java**: [`exemplo-usecase-esocial-java`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-java)
+- **Java** (puerto 8080): [`exemplo-usecase-esocial-java`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-java)
+- **C#** (puerto 5097): [`exemplo-usecase-esocial-csharp`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-csharp)
+- **JavaScript** (puerto 8102): [`exemplo-usecase-esocial-javascript`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-javascript)
+- **TypeScript** (puerto 8103): [`exemplo-usecase-esocial-typescript`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-typescript)
+- **Node.js** (puerto 3097): [`exemplo-usecase-esocial-nodejs`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-nodejs)
+- **PHP** (puerto 8104): [`exemplo-usecase-esocial-php`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-php)
+- **Python** (puerto 8105): [`exemplo-usecase-esocial-python`](https://github.com/SolidTechSolutions/exemplo-usecase-esocial-python)
 
 ## Cómo ejecutar
 
